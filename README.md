@@ -12,3 +12,8 @@ This project enables users to **accept digital payments through a QR code**, eli
 - Quick and **contactless payment method**
 - Simple and lightweight **Python implementation**
 - Beginner-friendly project structure
+
+## 🛠️ Tech Stack
+- **Python**
+- QR Code Generation Library
+- Basic Payment/UPI Integration Logic
