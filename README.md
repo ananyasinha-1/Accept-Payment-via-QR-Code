@@ -32,3 +32,6 @@ This project enables users to **accept digital payments through a QR code**, eli
 
 ## 📸 Output
 A scannable QR code that redirects to the payment interface.
+
+---
+✨ *Making digital payments simpler, smarter, and faster with Python.*
