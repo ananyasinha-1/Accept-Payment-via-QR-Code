@@ -29,3 +29,6 @@ This project enables users to **accept digital payments through a QR code**, eli
 2. System generates a **QR code**.
 3. Customer scans the QR using any UPI app.
 4. Payment is completed instantly.
+
+## 📸 Output
+A scannable QR code that redirects to the payment interface.
