@@ -17,3 +17,9 @@ This project enables users to **accept digital payments through a QR code**, eli
 - **Python**
 - QR Code Generation Library
 - Basic Payment/UPI Integration Logic
+
+## 📂 Use Cases
+- Small businesses & vendors
+- College projects
+- Digital payment demos
+- Learning QR code & payment integration in Python
