@@ -23,3 +23,9 @@ This project enables users to **accept digital payments through a QR code**, eli
 - College projects
 - Digital payment demos
 - Learning QR code & payment integration in Python
+
+## ▶️ How It Works
+1. User enters payment details (amount / UPI ID).
+2. System generates a **QR code**.
+3. Customer scans the QR using any UPI app.
+4. Payment is completed instantly.
